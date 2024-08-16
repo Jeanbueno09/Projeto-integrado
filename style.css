@@ -55,4 +55,23 @@ button:hover{
 background-color: rgba(0, 0, 0, 0.461);
 cursor: pointer;
 }
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    font-size: 20px;
+}
+
+li {
+    display: inline-block;
+    margin: 0 15px; 
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
 
